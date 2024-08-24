@@ -1,0 +1,16 @@
+
+.App {
+  background-color: grey;
+  color: white; 
+  min-height: 100vh; 
+  padding: 20px;
+}
+.crud{
+ text-align: center;
+ font-size:30px;
+ font-weight: bold;
+ margin-top: 2%;
+ color: white;
+ 
+
+}
